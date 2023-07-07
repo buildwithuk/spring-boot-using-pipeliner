@@ -1,0 +1,1 @@
+# spring-cqrs-using-pipeliner
